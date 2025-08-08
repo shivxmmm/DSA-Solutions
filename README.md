@@ -5,8 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
