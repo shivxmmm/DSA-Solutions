@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivxmmm/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
