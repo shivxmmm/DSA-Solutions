@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
+| [2630-alternating-digit-sum](https://github.com/shivxmmm/DSA-Solutions/tree/master/2630-alternating-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
