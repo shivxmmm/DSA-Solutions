@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivxmmm/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivxmmm/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivxmmm/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shivxmmm/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivxmmm/DSA-Solutions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivxmmm/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
