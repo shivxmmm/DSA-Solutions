@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivxmmm/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shivxmmm/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/shivxmmm/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shivxmmm/DSA-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shivxmmm/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -163,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivxmmm/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shivxmmm/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shivxmmm/DSA-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/shivxmmm/DSA-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivxmmm/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/shivxmmm/DSA-Solutions/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
