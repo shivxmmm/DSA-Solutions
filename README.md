@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/shivxmmm/DSA-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shivxmmm/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 | [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivxmmm/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivxmmm/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivxmmm/DSA-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivxmmm/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivxmmm/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivxmmm/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -223,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivxmmm/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
