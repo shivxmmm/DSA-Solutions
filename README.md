@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shivxmmm/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/shivxmmm/DSA-Solutions/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivxmmm/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/shivxmmm/DSA-Solutions/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
