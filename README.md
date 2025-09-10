@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/shivxmmm/DSA-Solutions/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
+| [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivxmmm/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivxmmm/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
+| [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
