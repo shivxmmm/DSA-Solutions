@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivxmmm/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shivxmmm/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0812-rotate-string) |
 | [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivxmmm/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
