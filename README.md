@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2630-alternating-digit-sum](https://github.com/shivxmmm/DSA-Solutions/tree/master/2630-alternating-digit-sum) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shivxmmm/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0812-rotate-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
