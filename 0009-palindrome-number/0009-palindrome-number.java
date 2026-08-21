@@ -1,17 +1,24 @@
 class Solution {
+
+    private boolean checkPalindrome(String str){
+        int left = 0;
+        int right = str.length() - 1;
+        while(left < right){
+            if(str.charAt(left) != str.charAt(right)){
+                return false;
+            }else{
+                left++;
+                right--;
+            }
+        }
+        return true;
+    }
     public boolean isPalindrome(int x) {
-        if(x<0){
+        if(x < 0){
             return false;
         }
-        int original=x;
-        int reversed=0;
+        String num = x + "";
+        return checkPalindrome(num);
 
-        while(x!=0){
-            int temp=x%10;
-            reversed=reversed*10+temp;
-            x=x/10;
-        }
-        return original==reversed;
-        
     }
 }
