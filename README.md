@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivxmmm/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/shivxmmm/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivxmmm/DSA-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shivxmmm/DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2630-alternating-digit-sum](https://github.com/shivxmmm/DSA-Solutions/tree/master/2630-alternating-digit-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivxmmm/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## String
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shivxmmm/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivxmmm/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shivxmmm/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivxmmm/DSA-Solutions/tree/master/0169-majority-element) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
