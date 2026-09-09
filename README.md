@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivxmmm/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/shivxmmm/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivxmmm/DSA-Solutions/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shivxmmm/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shivxmmm/DSA-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/shivxmmm/DSA-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shivxmmm/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shivxmmm/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shivxmmm/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivxmmm/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivxmmm/DSA-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shivxmmm/DSA-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shivxmmm/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Matrix
