@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/shivxmmm/DSA-Solutions/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/shivxmmm/DSA-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivxmmm/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivxmmm/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/shivxmmm/DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shivxmmm/DSA-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/shivxmmm/DSA-Solutions/tree/master/2502-sort-the-people) |
 ## String
 |  |
